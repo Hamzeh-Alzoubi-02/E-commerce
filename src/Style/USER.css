@@ -1,0 +1,118 @@
+/*USER*/
+.search{
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    padding-left: 10px;
+    border: 1px solid black;
+
+}
+
+.TABEL{
+    background-color: rgba(192, 185, 185, 0.144); }
+.TABEL th{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 50px;
+}
+.TABEL td{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+.User{
+    gap: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+   
+}
+/*Edit*/
+ 
+.form-Update{
+    background-color: rgb(255, 255, 255); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+
+}
+
+
+
+
+.item-Update{
+
+    background-color: rgba(192, 185, 185, 0.144);     display: flex;
+    justify-content: center;
+    gap:10px;
+    align-items: center;
+    flex-direction: column;
+    height: 400px;
+    width: 500px;
+    font-size: 20PX;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+
+}
+ 
+.form-Update input{
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+.form-Update button{
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+    .form-Update button:hover{
+        background-color: rgb(218, 218, 218);
+        cursor:pointer;
+    }
+ 
+
+
+    .Cart1{
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 10px;
+    }
+     
+    .Cart2 thead{
+        
+        font-size: 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding-right: 50px;
+        border-bottom:2px solid black;
+    }
+    
+    .Cart2 tbody{
+        
+        font-size: 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding-right: 50px;
+         
+    }
+    .Cart2 td{
+      
+        font-size: 20px;
+        font-weight: bold;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    }

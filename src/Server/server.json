@@ -1,0 +1,28 @@
+{
+  "USER": [
+    {
+      "id": 3,
+      "name": "Hamzeh",
+      "email": "ali@gmail.com"
+    },
+    {
+      "name": "Jamal",
+      "email": "jamal@gmail.com",
+      "password": "12",
+      "confirmPassword": "12",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "123",
+      "email": "malak@12.cv"
+    },
+    {
+      "name": "Malak",
+      "email": "malak@gmail.com",
+      "password": "12",
+      "confirmPassword": "12",
+      "id": 5
+    }
+  ]
+}
